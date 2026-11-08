@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "kind": "family_finance_review_encrypted",
+  "algorithm": "AES-256-GCM",
+  "kdf": {
+    "name": "PBKDF2-SHA256",
+    "salt": "qthhw4e+IAOJJ/YFsuqNVH0mAZa1n69CQQBBsaUab4E=",
+    "iterations": 300000
+  },
+  "iv": "opennLlhK/ab2ZZR",
+  "ciphertext": "lJo8j2D/CCfmQxIHgeGLrgLDn8iDlv89kCyt+XFhzERhFIUALgdcmQ5eH7p4YvxoYLxsnUZcsTparQ640iHuilMAjEM/16MGnIVTKODgejHqNpZZOBsxfsiCGWMU35esFb3zpiM5sLugNq8XktrVdTJHQoYbK52gzX3sM2PSYlkJkzQYMq4S4gNcmYuCo7n7P2IVb7EuYg98Edn6XfnPzoHXH6OSH31Np4Xo0kk+P69QFs/maEIXRSqGCRYt+p/zpIP9czlI/GYYUYnkD7swTdQOVJfGVzdS7GeOtwBYJH/XiEv7TeLTPA/LWYNjSfHV1K2rv4k4rf0CAlHiq1Jw2DNb9/qXJJJLW6Rmq2hby3hOkB0cDVtBSPs5+jvmTYfbN7JnHLnzmPimIXL2KO9+eY+S83MrpJLc6cAlFiMgINuEQ1oEVKPk2Ji8BUW1Kc9C1L31CjolVCJK39nVu5ViNQWEBEZ8Ttp7V9wYhxX1Cu1WqBpsSS+XfJOLQQt6uwakaLXjINRGUciHL9Fvn+iXOit4jv52VnOT",
+  "created_at": "2026-11-08T03:40:19.183566+00:00",
+  "submission_id": "789b4648-70dd-43b8-9263-e90dd84f2d9c"
+}
